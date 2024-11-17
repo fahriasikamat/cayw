@@ -7,9 +7,9 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "6289673110783"
-global.namabot = "CaywzzWasHere"
-global.nomorbot = "-"
+global.owner = "6285820360355"
+global.namabot = "AinyWasHere"
+global.nomorbot = "62815284101320"
 global.namacreator = "CaywzzWasHere"
 global.linkyt = false
 global.autoJoin = false
